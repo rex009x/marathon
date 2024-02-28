@@ -1,4 +1,4 @@
-# Marathon Setup
+# Marathon time examination
 
 ## Overview
 
